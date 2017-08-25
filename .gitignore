@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules
+
+#Mac OS
+.DS_Store
+
+#Atom
+package-lock.json
+
+#webpack generated
+dist/img
